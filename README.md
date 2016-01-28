@@ -1,7 +1,7 @@
 # My-ChatSystem
 My first repository on GitHub
 
-This is a timely communication software, the purpose is to practice
+This is a timely communication software, the purpose is to practice Coding
 
 The project is divided into client and server
 The main function of the client in LoginFrame
