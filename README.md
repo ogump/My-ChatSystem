@@ -15,3 +15,5 @@ Then start the login
 
 
 ## 重写了Mina版本的
+ [Mina版本](https://github.com/ganhang/My-ChatSystem/releases)
+ [原生版本](https://github.com/ganhang/My-ChatSystem/releases)
